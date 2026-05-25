@@ -5,9 +5,9 @@
 
 ---
 
-I code daily — automating workflows, building tools, and solving problems that sit at the intersection of systems design and human process. Most of what I build starts as a manual task that shouldn't be manual.
+I code daily, automating workflows, building tools, and solving problems at the intersection of systems design and human process. Most of what I build starts as a manual task that shouldn't be manual.
 
-Beyond the code, I'm drawn to the edges of what we understand about consciousness, perception, and reality. Remote viewing, mind-matter interactions, NHI disclosure, the science of ESP — these aren't distractions from the technical work. They're part of the same curiosity.
+Beyond the code, I'm drawn to the edges of what we understand about consciousness, perception, and reality. Remote viewing, mind-matter interactions, NHI disclosure, the science of ESP. None of it is a distraction from the technical work. It's all part of the same curiosity.
 
 ---
 
